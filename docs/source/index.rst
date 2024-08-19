@@ -13,12 +13,15 @@ Welcome to Yav's Cookbook's documentation!
    sweetnsour
    arrozescribano
    tortilla
+   pouletbasquaise
+   basmati
 
 .. toctree::
    :maxdepth: 1
    :caption: Sweet:
 
    bananamuffins
+   muslimuffins
 
 
 
