@@ -14,7 +14,10 @@ Welcome to Yav's Cookbook!
    arrozescribano
    tortilla
    pouletbasquaise
+   pouletvinblanc
    basmati
+   veganfajitas
+   cashewchicken
 
 .. toctree::
    :maxdepth: 1
@@ -22,8 +25,8 @@ Welcome to Yav's Cookbook!
 
    bananamuffins
    muslimuffins
-
-
+   coffeecoffeecake
+   maltedbrownies
 
 Indices and tables
 ==================
