@@ -25,8 +25,22 @@ Welcome to Yav's Cookbook!
 
    bananamuffins
    muslimuffins
+   orangemuffins
+   gingerbreadmuffins
+   chocolatecupcakes
+   whitechocolatecupcakes
    coffeecoffeecake
    maltedbrownies
+   classicbrownies
+   chocolatechipcookies
+   chocolatemousse
+   chocolatesouffle
+   tartecitronvert
+   limemeringuepie
+   crepessuzette
+   sernik
+   tiramisu
+   macarons
 
 Indices and tables
 ==================
