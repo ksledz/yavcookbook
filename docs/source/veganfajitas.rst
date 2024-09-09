@@ -9,6 +9,7 @@ Vegan, vegetarian if served with sour cream, cheese etc.
 
 Ingredients
 -----------
+
 * tablespoon (15 ml) olive or coconut oil
 * 1 poblano pepper, seeds removed and thinly sliced (ommited and used only green bell pepper, `other replacements <https://www.chefspencil.com/poblano-pepper-substitutes/>`_)
 * 2 bell peppers, seeds removed and thinly sliced (one green and one red)
@@ -21,8 +22,10 @@ Ingredients
 * OG recipe optional: 1 tsp A1 steak sauce (for mushrooms) (ommited)
 * 6 small flour or corn tortillas (should be SMALL)
 * optional: fresh red onion, hot sauce, cilantro, salsa, vegan or nonvegan sour cream, cheese
+
 Preparation
 -----------
+
 #. Heat a large skillet and a medium skillet over medium-high heat. Once hot add a dash of olive or coconut oil to the large skillet, then the onion and peppers. Season generously with salt, cumin and garlic powder. (if using actual garlic, mix thin slices with the vegetables)
 #. Cook until softened and slightly caramelized, stirring often. Set aside and cover to keep warm.
 #. At the same time, add a dash of oil to the medium pan. Then add the mushrooms. Season with a bit of salt and once softened and brown (see photo), add a dash of A1 (vegan-friendly) for more flavor (optional). Remove from heat, set aside and cover. (added mushrooms to the vegetables, in fact could be done entirely together)
@@ -32,4 +35,5 @@ Preparation
 
 Makes/Notes
 -----------
+
 #. Google doc last modified on 7 February 2018, so probably made around that time.

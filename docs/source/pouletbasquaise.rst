@@ -30,6 +30,7 @@ Preparation
 #. Replace the meat in the pot with paprika and onion. Fry for 10 minutes on low heat, stirring, add the ham and garlic and fry for another 10 minutes. 
 #. Pour in (wine) puree and water (and pour into the pan), add paprika (and chilli), bring to the boil, add the chicken. 
 #. Cook for 25-30 minutes uncovered. (Sprinkle with parsley before serving)
+
 Makes/Notes
 -----------
 

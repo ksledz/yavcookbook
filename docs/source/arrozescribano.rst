@@ -22,8 +22,10 @@ Ingredients
 * salt
 * pepper
 * OG recipe adds 1/4 teaspoon saffron threads and parsley
+
 Preparation
 -----------
+
 #. Roughly chop the onion, garlic, pepper and carrot (if you happen to have thermomix or a copycat its good for it). Drain and rinse chickpeas.
 #. Heat a large pan and add oil, add onion, carrot and pepper and sautee for 5-6 minutes. Again, you can do it in a thermomix (pls dont bully me its my parents who got this upper middle class status symbol "smart" pot)
 #. If you fry in a pan, remove the veggies, add 1/2tbsp oil, garlic and rice and fry it for like 2 minutes like you do for risotto. In my thermomix mode, i just left the veggies inside the thermomix and fried the rice on a pan.
@@ -33,4 +35,5 @@ Preparation
 
 Makes/Notes
 -----------
+
 #. Made one 12 July 2024 with the status symbol "smart" pot, adding some cashews bc they were a leftover. Made it several times in the past with regular pan and a blender. No comments, it's always very good. May try more Spain on a Fork recipes for vegetablemaxxing.

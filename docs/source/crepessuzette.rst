@@ -1,5 +1,5 @@
 Crepes Suzette
-=========================
+==============
 
 Original recipe: `Kwestia smaku (PL) <http://www.kwestiasmaku.com/kuchnia_francuska/crepes_suzette/przepis.html>`_
 
@@ -18,6 +18,7 @@ Ingredients
 
 Preparation
 -----------
+
 #. Heat a 20cm diameter pan over medium heat, pour sugar into the middle and sprinkle with lemon juice. Keep the pan over medium heat without stirring for about 2 minutes - during this time the sugar will start to bubble, creating a thick syrup, which will eventually start to brown.
 
 #. When the syrup is brown (be careful not to burn the sugar, because it will be bitter and the whole sauce will fail), add the zest and orange juice and mix quickly. Add the butter and mix continuously  until the syrup is smooth (there may be lumps, which will disappear as you heat the sauce while stirring). Pour in the orange liqueur and mix.
