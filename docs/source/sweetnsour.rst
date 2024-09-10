@@ -24,8 +24,10 @@ Ingredients
 * 30ml sriracha/ketchup
 * 15ml soy sauce
 * 10ml toasted sesame oil
+
 Preparation
 -----------
+
 #. Remove white sinew/silver skin/connective tissue from the pork and cut it into 8mm thick, "bite sized" bits. Put it into a bowl, add soy sauce and mix, let it marinate.
 #. Make the sauce by mixing all ingredients until sugar is mostly dissolved.
 #. Heat a wok/skillet/pan with oil, when it's hot, put the pork chunks in one layer (not overcrowding the pot), sear on one side for 1-2 minutes until that side is browned.

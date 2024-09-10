@@ -7,14 +7,18 @@ One big pan
 
 Ingredients
 -----------
+
 CHEESE LAYER:
+
 * 2x175g sugar
 * 10 egg yolks and egg whites
 * 2 teaspoons vanilla sugar
 * 1 40g packet of vanilla pudding mix 
 * 1,2kg twaróg/quark
 * 400g sour cream 18% fat
+
 DOUGH LAYER:
+
 * 1/2 cup sugar
 * 1 cup flour
 * over 100g of butter/margarin
