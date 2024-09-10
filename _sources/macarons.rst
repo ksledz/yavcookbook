@@ -1,5 +1,5 @@
 Macarons
-=========================
+========
 
 Original recipe: `Cioccolato Gatto (PL) <https://cioccolatogatto.home.blog/2012/04/15/makaroniki-tiramisu/>`_
 Recipe for "regular meringue" macarons, as opposed to eg. Italian meringues
@@ -7,12 +7,16 @@ Recipe for "regular meringue" macarons, as opposed to eg. Italian meringues
 
 Ingredients
 -----------
+
 COOKIES
+
 * 70g egg whites, dried for 12-24hrs, prepare at least 80g so its 70 after drying
 * 35g and 135g icing sugar
 * 100g almond flour, sifted through
 * 2 teaspoons instant coffee/1.5 teaspoon powdered coloring (one time i tried matcha but it flopped)
+
 EXAMPLE TIRAMISU FILLING
+
 * 150g mascarpone
 * 2 tablespoons espresso
 * 1 teaspoon icing sugar
@@ -28,7 +32,7 @@ Preparation
 #. Delicately, but firmly tap the sheet over the edge of a couch/bed, so the batter spreads evenly without peaks.
 #. Rest the sheet for 30mins, so a thin dry film appears on the macarons. Test it by touch.
 #. Bake 140C 12-15 minutes, so the cookies dont brown, dont open the oven during the baking process. 
-# Rest the cookies for 10mins, before releasing them from the parchment.
+#. Rest the cookies for 10mins, before releasing them from the parchment.
 
 Makes/Notes
 -----------

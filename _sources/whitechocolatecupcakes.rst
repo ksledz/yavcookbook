@@ -1,5 +1,5 @@
 White chocolate-peanut butter cupcakes
-=========================
+======================================
 
 Original recipe: `The Golden Book of Chocolate <https://www.goodreads.com/book/show/3359818-the-golden-book-of-chocolate>`_
 
@@ -34,4 +34,5 @@ Preparation
 
 Makes/Notes
 -----------
+
 #. Google doc file is from 19-11-2016, must have made it around this time.

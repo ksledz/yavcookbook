@@ -26,6 +26,7 @@ Preparation
 #. Add a large spoonful of the whipped egg whites to the chocolate, mix, “loosening” the chocolate. Add the rest of the egg whites and combine gently, stirring from the bottom, so that the mass is aerated and does not lose its fluffiness.
 #. Pour the mass into the cooled ramekins (do not sprinkle them with flour!), level. If the edges of the ramekin get dirty while applying the mixture, clean them thoroughly so that the soufflés can rise without any problems.
 #. Bake for 8-9 minutes if you want the centre of the soufflé to be liquid, or for 11-12 minutes if you want it to be more cooked.
+
 Serve immediately, sprinkled with icing sugar or cocoa.
 
 Makes/Notes

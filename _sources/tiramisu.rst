@@ -1,5 +1,5 @@
 Tiramisu
-=========================
+========
 
 Original recipe: `Agnieszka Kręglicka (PL) <https://web.archive.org/web/20080502173425/http://ugotuj.to/przepisy_kulinarne/1,88736,1572627,Tiramisu.html>`_
 

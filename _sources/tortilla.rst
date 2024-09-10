@@ -14,8 +14,10 @@ Ingredients
 * salt (adjust for the fries salinity)
 * black pepper
 * like half an onion, cut into feathers
+
 Preparation
 -----------
+
 #. Heat a small pan (I used one TODO diameter) over medium heat, add oil, fries, and onion, fry for 3-4 minutes.
 #. crack the eggs into a bowl, add salt and pepper and mix well, otherwise some servings will be over- and some under-salted.
 #. Reduce the heat to low and pour in the egg mix. You can rotate the pan to encourage even cooking. 
@@ -24,6 +26,7 @@ Preparation
 
 Makes/Notes
 -----------
+
 #. 6th July make, undermixed batter, the tortilla was a bit too thin to my taste with TODO diameter and 4 eggs.
 #. May try with more eggs per cm of radius.
 #. May test `Kimchi and beans <https://web.archive.org/web/20200605042255/http://www.kimchiandbeans.com/2020/05/day-old-french-fry-spanish-tortilla.html>`_ fries to egg ratio.
