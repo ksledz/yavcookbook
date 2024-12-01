@@ -43,4 +43,5 @@ Preparation
 Makes/Notes
 -----------
 
-#. Made a batch 24 July 2024 and holy shit those are so good (I find raw banana overwhelming but the muffins had mild aroma that didn't overwhelm me personally). Shared them with several friends and family members who all liked it. 
+#. Made a batch 24 July 2024 and holy shit those are so good (I find raw banana overwhelming but the muffins had mild aroma that didn't overwhelm me personally). Shared them with several friends and family members who all liked it.
+#. Made two batches 10 Nov 2024 from 6 bananas, using plant fats (olive oil+canola oil) only, replacing 2 eggs with 3-4 egg whites and using mostly whole wheat flour. Good, but a bit too much for 12 muffin forms. 

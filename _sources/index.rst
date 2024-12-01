@@ -18,6 +18,7 @@ Welcome to Yav's Cookbook!
    basmati
    veganfajitas
    cashewchicken
+   garliclimechicken
 
 .. toctree::
    :maxdepth: 1
@@ -39,6 +40,8 @@ Welcome to Yav's Cookbook!
    limemeringuepie
    crepessuzette
    sernik
+   basquecheesecake
+   nycheesecake
    tiramisu
    macarons
 
