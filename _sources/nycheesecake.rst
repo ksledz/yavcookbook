@@ -7,16 +7,20 @@ OG recipe for 25cm diameter round pan here, I used 34x24cm so I must have  multi
 
 Ingredients
 -----------
-DOUGH
+
+DOUGH:
+
 * 300g butter cookies (used Matcha Pocky that was nearing expiry)
 * 5og butter
 
-CHEESE BATTER
+CHEESE BATTER:
+
 * 250 g sugar
 * 6 eggs + 5 yolks
 * 1,25kg philadelphia-style cream cheese
 * 3 teaspoons vanilla extract
 * juice from 1/2 lemon
+
 Preparation
 -----------
 
