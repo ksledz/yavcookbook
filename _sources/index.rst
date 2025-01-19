@@ -19,6 +19,7 @@ Welcome to Yav's Cookbook!
    veganfajitas
    cashewchicken
    garliclimechicken
+   sundriedtomatoturkey
 
 .. toctree::
    :maxdepth: 1
