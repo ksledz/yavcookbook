@@ -3,7 +3,7 @@ Chocolate mousse
 
 Original recipe: `Leksykon: Czekolada (PL) <https://www.goodreads.com/book/show/17077033>`_
 
-??? portions
+4 portions
 
 
 Ingredients
@@ -18,6 +18,7 @@ Ingredients
 Preparation
 -----------
 
+#. This recipe uses raw eggs so it's probably good to pour boiling water over the eggshells before cracking them open.
 #. Beat the egg whites and cream separately until stiff and place in the fridge
 #. Chop the chocolate, melt in a bain-marie, and leave to cool
 #. Beat the egg yolks with 2 teaspoons of hot water
@@ -28,4 +29,5 @@ Preparation
 Makes/Notes
 -----------
 
-#. Google doc file is from 02-04-2016, my mom has made it several times.
+#. Google doc file is from 02-04-2016, my mom has made it several times.i
+#, Made one with 14-05-2025 with 200g cream.
