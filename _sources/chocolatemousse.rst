@@ -30,4 +30,4 @@ Makes/Notes
 -----------
 
 #. Google doc file is from 02-04-2016, my mom has made it several times.i
-#, Made one with 14-05-2025 with 200g cream.
+#. Made one with 14-05-2025 with 200g cream.
