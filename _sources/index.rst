@@ -34,6 +34,7 @@ Welcome to Yav's Cookbook!
    coffeecoffeecake
    maltedbrownies
    classicbrownies
+   chocolatecake
    chocolatechipcookies
    chocolatemousse
    chocolatesouffle
